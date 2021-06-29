@@ -1,5 +1,5 @@
 # MuseumOfCandy
 A project to create a responsive web site using bootstrap
 
-##Credit
+## Credit
 The Web Development Bootcamp 2021 - Colt Steele
